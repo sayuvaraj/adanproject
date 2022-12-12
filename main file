@@ -1,0 +1,25 @@
+Types of roles -2--
+students 
+college admin
+features-
+student-
+signup
+login (same for both users
+Landing page => edit profile  
+search for workshops (location /date..)=>filter.
+sort=>book a workshop 
+booked workshops=>attended /history ,
+upcomin,cancalled
+
+
+COLLEGE ADMIN
+signup
+login 
+profile
+landing page (post login)->show upcoming 
+workshops created by you and pending approavals
+from students ..
+Create workshops (no of seats)
+Search your workshops ->Filter (past Present,Upcoming)->
+       view->edit(only upcoming/current)
+       view->students booked ->appprove bookings (Optional -Enroll your college users to Workshops)
